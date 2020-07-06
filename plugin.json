@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "title": "Twitter cards",
+  "description": "",
+  "includes": [
+    "twitter_meta.html"
+  ]
+}
