@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "title": "Twitter cards",
-  "description": "",
+  "description": "This plug-in adds HTML meta tags to allow Twitter card previews of your blog posts",
   "includes": [
     "twitter_meta.html"
   ]
