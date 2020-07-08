@@ -5,6 +5,6 @@
   <meta name="twitter:title" content="{{ .Site.Title }}" />
 {{ end }}
 <meta name="twitter:description" content="{{ .Summary }}" />
-{{ range first 1 .Params.photos }}
+{{ range .Params.photos }}
   <meta name="twitter:image" content="{{ . }}" />
 {{ end }}
